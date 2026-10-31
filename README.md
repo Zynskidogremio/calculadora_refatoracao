@@ -1,22 +1,16 @@
-# projeto_calculadora
+ # Projeto Calculadora — FinançApp
 
-## Descrição do projeto
+> Projeto acadêmico desenvolvido com foco em Qualidade de Software, Testes, Refatoração, Documentação e Versionamento.
 
+---
 
-## Objetivo da atividade
+## 1. Identificação do Projeto
 
-
-## Tecnologias utilizadas
-
-
-## Explicação das operações
-
-
-## Prints da execução dos testes
-
-
-## Prints da documentação JavaDoc
-
-
-## Link do repositório
-
+**Projeto:** Projeto Calculadora  
+**Contexto:** FinançApp  
+**Aluno:** João Vítor Vieira Skierzynski  
+**RA:** 250964  
+**Curso:** ADS (Análise e Desenvolvimento de Sistemas)
+**Disciplina:**  UX/UI e Testes de Software 
+**Professor:** Daniel Domingos Akira de Sa Pimentel Ohata
+**Semestre:** 2026.2  
